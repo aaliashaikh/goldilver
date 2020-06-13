@@ -1,0 +1,17 @@
+{
+	"name": "goldilver",
+	"version": "0.0.1",
+	"description": "goldilver node.js",
+	"engines": {
+		"node": ">=8.4.0",
+		"npm": ">=5.3.0"
+	},
+	"scripts": {
+		"start": "node goldilver.js"
+	},
+	"engine-strict": true,
+	"license": "Apache-2.0",
+	"dependencies": {
+		"fabric-shim": "1.2.0"
+	}
+}
